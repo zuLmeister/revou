@@ -23,8 +23,7 @@
 	background-color: #fff;
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 	padding: 20px;
-	position: fixed;
-	top: 0;
+	top: 50;
 	left: 0;
 	right: 0;
 	z-index: 999;
@@ -67,6 +66,9 @@
 	color: #fff;
   }
   
+  .word {
+	text-align: center;
+  }
   /* Banner section styles */
   .banner {
 	position: relative;
